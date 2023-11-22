@@ -1,0 +1,88 @@
+.logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+}
+
+.linea {
+    border-top: 1px solid yellow;
+}
+
+.simply {
+    text-align: center;
+    font-size: small;
+    box-shadow:yellow;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.focaccia {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.wow {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.sally {
+    text-align: center;
+    font-size: medium;
+    color: grey;
+}
+
+.featured {
+    margin-left: 400px;
+    color: orange;
+}
+
+.fresh {
+    margin-left: 400px;
+    color: blue;
+}
+
+.ingredients {
+    margin-left: 400px;
+}
+
+.linea1 {
+    border-top: 1px solid rgb(64, 0, 255);
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.for {
+    margin-left: 400px;
+}
+
+.topping {
+    margin-left: 400px;
+}
+
+ul > li {
+    margin-left: 25rem;
+}
+
+.method{
+    margin-left: 400px;
+}
+
+.make {
+    margin-left: 400px;
+}
+
+.medium{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.read {
+    margin-left: 400px;
+}
